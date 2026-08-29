@@ -27,6 +27,17 @@ description: >-
   organisation — Niyo is delivered exclusively as a B2C iOS and Android
   mobile application with a marketing and tools website at goniyo.com.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
